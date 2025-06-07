@@ -1,4 +1,4 @@
-# Vírus FTP CLIENT
+# ftp-virus-go
 
 Uma aplicação que roda em segundo plano para capturar telas e enviá-las a um servidor FTP remoto.
 
